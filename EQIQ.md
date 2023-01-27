@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EQ vs IQ
+title: EQ vs IQ - Testing Gendered AI in Apple's Siri
 nav_order: 7
 ---
 
