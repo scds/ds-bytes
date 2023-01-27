@@ -8,9 +8,9 @@ nav_order: 2
 
 <img src="assets/img/AJP-Final.png" alt="Workshop Title Slide" width="720">
 
-**Day and Time:** Thursday January 19, 2023 | 1:30-3pm
+Day and Time: Thursday January 19, 2023 | 1:30-3pm
 
-Abstract: In the TV show The Good Place (2016-2020), each heavenly neighborhood is run by a “Janet,” a feminized personal assistant with access to all the information in the universe. In season 2, Janet glitches, causing earthquakes to rock the world and large swaths of the neighbourhood to disappear. Starting from the representation of glitching robots on-screen before moving to technologies, bodies, and communities off-screen, this presentation will explore the history of “glitch feminism” and then turn to glitch as intimacy, interdependence, and Mad/crip/queer community, glitch understood through the physiology of pain in relation to technology, and glitch as a reorientation towards crip time.
+**Abstract:** In the TV show The Good Place (2016-2020), each heavenly neighborhood is run by a “Janet,” a feminized personal assistant with access to all the information in the universe. In season 2, Janet glitches, causing earthquakes to rock the world and large swaths of the neighbourhood to disappear. Starting from the representation of glitching robots on-screen before moving to technologies, bodies, and communities off-screen, this presentation will explore the history of “glitch feminism” and then turn to glitch as intimacy, interdependence, and Mad/crip/queer community, glitch understood through the physiology of pain in relation to technology, and glitch as a reorientation towards crip time.
 
 Glitch: A surge of current or a spurious electrical signal… a sudden short-lived irregularity in behaviour… a hitch or snag; a malfunction (OED).
 
