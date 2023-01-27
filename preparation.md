@@ -18,7 +18,7 @@ As Jerreat-Poole writes, “Glitch resonates with me as a Mad/disabled person an
 
 **Speaker Bio:** Adan (they/them) is a mad/crip/queer scholar and white settler living on treaty territory belonging to Six Nations of the Grand River and the traditional home of the Neutral, Anishinaabe, and Haudenosaunee peoples. Adan is an Assistant Professor at the University of Waterloo in the Department of Communication Arts. They work at the intersection of disability studies and digital media. Their current research explores how disabled queer and trans feminists create, advocate, and care for each other through and with digital technology, and how we can design, hack, mod, and build more ethical technologies, societies, and futures. Adan is also a creative writer and the author of the queer YA novels The Girl of Hawthorn and Glass and The Boi of Feather and Steel (Dundurn Press).
 
-## Watch a Recording of "Glitch"
+## Watch a Recording of "Glitch: Disability, Feminism, Technology"
 
 <iframe height="480" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/54535732-1c0c-43a1-884d-ff78df6e62ed/public"></iframe>
 
