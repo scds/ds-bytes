@@ -1,7 +1,7 @@
 ---
 layout: default
-title: How to Lie with Data
-nav_order: 3
+title: Glitch: Disability, Feminism, Technology
+nav_order: 2
 ---
 
 # How to Lie with Data
