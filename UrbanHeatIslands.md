@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Urban Heat Islands and Social Inequities
+title: Urban Heat Islands and Social Inequities - A Data-Driven Story
 nav_order: 5
 ---
 
