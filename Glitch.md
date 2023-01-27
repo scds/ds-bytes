@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Glitch: Disability, Feminism, Technology
+title: Glitch - Disability, Feminism, Technology
 nav_order: 2
 ---
 
