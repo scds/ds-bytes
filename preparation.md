@@ -1,30 +1,25 @@
 ---
 layout: default
-title: Preparation
+title: Glitch
 nav_order: 2
 ---
 
-<!-- Edit the content below for the workshop in question. Once you're ready to publish, remove the comment characters e.g. "<!--" at the start and end -->
+# Glitch: Disability, Feminism, Technology
 
+<img src="assets/img/AJP-Final.png" alt="Workshop Title Slide" width="720">
 
-<!--
+Day and Time: Thursday January 19, 2023 | 12:30-1:30pm
 
-# Workshop preparation 
+**Abstract:** In the TV show The Good Place (2016-2020), each heavenly neighborhood is run by a “Janet,” a feminized personal assistant with access to all the information in the universe. In season 2, Janet glitches, causing earthquakes to rock the world and large swaths of the neighbourhood to disappear. Starting from the representation of glitching robots on-screen before moving to technologies, bodies, and communities off-screen, this presentation will explore the history of “glitch feminism” and then turn to glitch as intimacy, interdependence, and Mad/crip/queer community, glitch understood through the physiology of pain in relation to technology, and glitch as a reorientation towards crip time.
 
-Preparation for this tutorial consists of two steps: [Getting the data](#get-the-data) and [Getting the software](#get-the-software). Follow the steps below. 
-  
-## Get the data
+Glitch: A surge of current or a spurious electrical signal… a sudden short-lived irregularity in behaviour… a hitch or snag; a malfunction (OED).
 
-You will have an opportunity to download the data during the workshop; however, if you would like to do so ahead of time, it can be downloaded [here](https://github.com/scds/intro-tableau/raw/main/data/humdata_GHGEmissionsGES.xlsx).
+As Jerreat-Poole writes, “Glitch resonates with me as a Mad/disabled person and scholar. We have glitchy brains and glitchy bodies that don’t always do what we ask of them or what society demands of them. We have twinges and twitches and tics, both visible and invisible. We have our behaviour read as irregular or strange (Janet’s wild laughter, her hair in disarray). A glitch can be a mistake, a pause, a redirection, a new field of possibility. Glitches, embodied and/or technical, can disrupt the smooth narrative of neoliberal progress and efficiency, opening up opportunities to imagine and construct digital communities that are sick, crip, Mad, disabled, neurodivergent, feminist, and queer.”
 
-## Get the software
-This hands-on workshop uses [**Tableau**](https://www.tableau.com/), a software application for data visualization. We ask that you download Tableau in advance of the workshop to be able to participate in it to the fullest extent.
+**Speaker Bio:** Adan (they/them) is a mad/crip/queer scholar and white settler living on treaty territory belonging to Six Nations of the Grand River and the traditional home of the Neutral, Anishinaabe, and Haudenosaunee peoples. Adan is an Assistant Professor at the University of Waterloo in the Department of Communication Arts. They work at the intersection of disability studies and digital media. Their current research explores how disabled queer and trans feminists create, advocate, and care for each other through and with digital technology, and how we can design, hack, mod, and build more ethical technologies, societies, and futures. Adan is also a creative writer and the author of the queer YA novels The Girl of Hawthorn and Glass and The Boi of Feather and Steel (Dundurn Press).
 
-You have three options for downloading Tableau:
-1. [Tableau Public](https://public.tableau.com/en-us/s/) (limited version)
-2. A 14-day trial of [Tableau Desktop](https://www.tableau.com/products/trial)
-3. A 1-year instructor or student license for [Tableau Desktop for academic purposes](https://www.tableau.com/academic/teaching) 
+## Watch a Recording of "Glitch"
 
-The three options will be discussed further during the workshop; for now, we recommend Tableau Public or the 14-day trial of Tableau Desktop. Please contact the [Sherman Centre](mailto:scds@mcmaster.ca) if you have any difficulties downloading or opening the software.
+<iframe height="480" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/54535732-1c0c-43a1-884d-ff78df6e62ed/public"></iframe>
 
--->
+View the original [here](https://echo360.ca/media/54535732-1c0c-43a1-884d-ff78df6e62ed/public).
