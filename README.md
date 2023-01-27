@@ -1,13 +1,14 @@
-# << ENTER WORKSHOP NAME HERE >>
-Materials for the DMDS workshop: **<<  ENTER WORKSHOP NAME HERE  >> **  
+# DS Bytes
+Materials for DS Bytes: A Lunchtime Speaker Series on Digital Scholarship
 
-This repository contains workshop files, as well as files used to create the [workshop webpage](https://scds.githib.io/<<enter_site_url>>) with GitHub Pages. 
+This repository contains workshop files, as well as files used to create the [workshop webpage](https://scds.github.io/ds-bytes) with GitHub Pages. 
 
 
 Contributions by the following individuals: 
-- Workshop content created by << ENTER NAME(S) HERE >> 
-- Content edited for online use by << ENTER NAME(S) HERE >> 
-- Online pages created by << ENTER NAME(S) HERE >> 
+- Lectures, presentations, and workshops created by Vass Bednar, Mark Belan, Cal Biruk, Isabelle Bouchard, Jason Brodeur, Jeffrey Demaine, Lai-Tze Fan, Saman Goudarzi, Christine Homuth, Adan Jerreat-Poole, Gabby Resch, Nael Shiab, Subhanya Sivajothy, and Andrea Zeffiro.
+- Lectures and workshops moderated by Jason Brodeur, Danica Evering, Abeer Siddiqui, Subhanya Sivajothy, and Andrea Zeffiro
+- Content edited for online use by Veronica Litt 
+- Online pages created by Veronica Litt
 
 
   
