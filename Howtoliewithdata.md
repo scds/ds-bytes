@@ -16,4 +16,12 @@ Day and Time: Tuesday January 31, 2023 | 1:30-3pm
 
 ## Watch a Recording of "How to Lie with Data"
 
-Coming Soon
+<iframe height="480" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/829d76f0-e4a0-404e-acfb-97426cc04a0c/public"></iframe>
+View the original [here](https://echo360.ca/media/829d76f0-e4a0-404e-acfb-97426cc04a0c/public).
+
+## Watch a Recording of the Q&A
+
+<iframe height="480" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/454975e7-855a-41ca-8747-e5b14c374dae/public"></iframe>
+View the original [here](https://echo360.ca/media/454975e7-855a-41ca-8747-e5b14c374dae/public).
+
+
