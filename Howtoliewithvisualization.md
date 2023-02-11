@@ -6,7 +6,7 @@ nav_order: 6
 
 # How to Lie with Visualization
 
-<img src="assets/img/GR-Final.png" alt="Workshop Title Slide" width="720">
+<img src="assets/img/GabbyReschFinal.png" alt="Workshop Title Slide" width="720">
 
 Day and Time: Wednesday March 1, 2023 | 1:30-4:30pm
 
