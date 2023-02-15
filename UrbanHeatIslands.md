@@ -18,4 +18,8 @@ Day and Time: Tuesday February 14, 2023 | 12:30-1:30pm
 
 ## Watch a Recording of "Urban Heat Islands and Social Inequities: A Data-Driven Story"
 
-Coming Soon
+<iframe height="480" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/d4746376-37c1-4444-807f-9e0f4e9a20cc/public"></iframe>
+View the original [here](https://echo360.ca/media/d4746376-37c1-4444-807f-9e0f4e9a20cc/public).
+
+
+
