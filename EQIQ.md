@@ -6,7 +6,7 @@ nav_order: 7
 
 # EQ vs IQ: Testing Gendered AI in Apple's Siri
 
-<img src="assets/img/LTF-Final.png" alt="Workshop Title Slide" width="720">
+<img src="assets/img/EQIQPoster.png" alt="Workshop Title Slide" width="720">
 
 Day and Time: Tuesday March 21, 2023 | 12:30-1:30pm
 
