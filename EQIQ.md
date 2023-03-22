@@ -25,3 +25,19 @@ Fan serves as an Editor and the Director of Communications of electronic book re
 <iframe height="480" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/0cb01c76-d32d-436a-99a2-762746722966/public"></iframe>
 View the original [here](https://echo360.ca/media/0cb01c76-d32d-436a-99a2-762746722966/public).
 
+**Links and Sources in order of appearance in presentation:** 
+- Mastodon: [mastodon.social/@lychee](mastodon.social/@lychee)
+- Twitter: [@lychee_fan](https://twitter.com/lychee_fan)
+- Jack/Judith Halberstam, ["Automating Gender: Postmodern Feminism in the Age of the Intelligent Machine."](https://www.jstor.org/stable/3178281) Feminist Studies 17.3 (Autumn 1991): 439-460
+- Hasti Atapour and Lai-Tze Fan, "The Evolution of Siri's Sexism and the Myth of Apple's Corporate Social Responsibility." (Proposed Conference Paper).
+- https://jentery.github.io/matrix23/
+- Emily M. Bender, Timnit Gebru, Angelina McMillan-Major, and Schmargaret Schmitchell. ["On the Danger of Stochastic Parrots: Can Language Models Be Too Big?"](https://dl.acm.org/doi/10.1145/3442188.3445922) FAACT21, 2021.
+- Sarah Sharma, ["Going to Work in Mommy's Basement."](https://www.bostonreview.net/articles/sarah-sharma-programmers-mommys-basement/) Boston Review.
+- Safiya Umoja Noble, Algorithms of Oppression (NYU Press, 2018). 
+- Ruha Benjamin, Race After Technology (Wiley, 2019).
+- Cathy O'Neil, Weapons of Math Destruction (Penguin Random House, 2016).
+- Wendy Hui Kyong Chun, Discriminating Data (MIT Press, 2021).
+- The [Algorithmic Justice League](https://www.ajl.org/) and their documentary Coded Bias (Netflix, 2020).
+- laitze.fan@gmail.com
+- Anne Balsamo's method of Hermeneutic Reverse Engineering.
+
