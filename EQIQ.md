@@ -22,4 +22,6 @@ Fan serves as an Editor and the Director of Communications of electronic book re
 
 ## Watch a Recording of "EQ vs IQ: Testing Gendered AI in Apple's Siri"
 
-Coming Soon
+<iframe height="480" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/0cb01c76-d32d-436a-99a2-762746722966/public"></iframe>
+View the original [here](https://echo360.ca/media/0cb01c76-d32d-436a-99a2-762746722966/public).
+
