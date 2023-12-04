@@ -24,4 +24,4 @@ This series includes the following events:
 <!-- 
 [Register for DS Bytes.](https://libcal.mcmaster.ca/calendar/scds?cid=7565&t=g&d=0000-00-00&cal=7565&ct=34374&inc=0) -->
 
-All lectures will be recorded and made available publicly. The workshop component of "How to Lie with Visualization" will not be recorded, though a text-based module will be released shortly after the event.
+
